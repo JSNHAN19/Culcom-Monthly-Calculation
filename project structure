@@ -1,0 +1,5 @@
+/project-folder
+├── app.py                  # Flask 애플리케이션 코드
+├── requirements.txt        # Python 라이브러리 종속성
+├── uploads/                # 업로드된 파일 저장 디렉토리
+└── vercel.json             # Vercel 배포 설정 파일
